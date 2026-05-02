@@ -10,10 +10,23 @@ As someone driving AI strategy at an LMS company — reshaping how engineering a
 
 ---
 
+## Materials
+
+- [Slides (PPTX)](robots-dont-need-sprint-boards.pptx)
+- [For Further Reading](FurtherReading.md) — sources cited or drawn on during the talk
+
+---
+
 ## Speaker: Sean Timm
 
 ![Sean Timm](Sean_Timm.webp)
 
 Ever the progressive contrarian, Sean stands for you against the forces that fear change. His present passion is firmly focused on leading the charge into this new AI world, and he wants you to join the fight.
 
-[LinkedIn](https://www.linkedin.com/in/seantimm/)
+[LinkedIn](https://www.linkedin.com/in/seantimm/) · [X](https://x.com/seantimm)
+
+### Kit Novik
+
+Sean's AI/tech commentary channel, featuring an original digital character.
+
+[YouTube](https://www.youtube.com/@KitNovik) · [X](https://x.com/KitNovik)
