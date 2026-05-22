@@ -34,12 +34,6 @@ Welcome to the official session proceedings from Boise Code Camp 2026. An open c
 - [ ] [Using Spec-Driven Development for Production Workflows - Erik Hanchett](sessions/ErikHanchett-UsingSpecDrivenDev/README.md)
 - [x] [Who Owns the Code? - Richard Hundhausen, Bradlee Frazer](sessions/RichardHundhausen-BradleeFrazer-WhoOwnsCode/README.md)
 
-## Share the Link
-
-Use the following [QR code](bcc2020-github-qr-code.png) to link here.
-
-[![QR Link Here](bcc2020-github-qr-code.png)](bcc2020-github-qr-code.png)
-
 ## License
 
 Each contributor is free to choose their own license for their contributions. So check their README or for a LICENSE file in their folder. Unless otherwise specified, all content is copyright by the creator or original copyright holder and licensed under the MIT License.
